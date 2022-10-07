@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<DisableImplicitNamespaceImports>true</DisableImplicitNamespaceImports>
+		<Version>0.1</Version>
+		<Authors>David Janousek</Authors>
+		<RepositoryUrl>https://github.com/entity-system/EntitySystem</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="EntitySystem.Shared" Version="0.1.0" />
+	</ItemGroup>
+
+</Project>
